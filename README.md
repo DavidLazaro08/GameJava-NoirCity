@@ -1,7 +1,6 @@
 # GameJava – Noir City
 
-**Noir City** es un juego 2D desarrollado en Java con estética noir, inspirado en las películas clásicas de detectives y mafias.  
-El jugador recorre escenarios oscuros llenos de peligros, enigmas y guiños al cine negro, con una atmósfera inmersiva gracias a su música original y efectos visuales.
+**Noir City** es un juego 2D desarrollado en Java con estética noir, inspirado en las películas clásicas de detectives y mafias. El jugador recorre escenarios oscuros llenos de peligros, enigmas y guiños al cine negro, con una atmósfera inmersiva gracias a su música original y efectos visuales.
 
 ![Portada del juego](src/resources/cinematicas/imagen2OB.png)
 
